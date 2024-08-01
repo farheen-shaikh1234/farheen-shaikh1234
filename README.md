@@ -1,0 +1,1 @@
+Hi, my name is Farheen Shaikh, I have recently completed Data skill bootcamp from Just IT and have gained skills like Excel, SQL, Power BI, Tableau, Python, Azure. Currently looking to start my career as a entry level/junior data analyst. I am passionate about data and bringing it to life. Here you will find my recent projects based on the skills I learnt during the bootcamp.
